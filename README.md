@@ -1,2 +1,2 @@
-# php_programming
-Laerning PHP
+# PHP_PROGRAMMING
+#php basic
